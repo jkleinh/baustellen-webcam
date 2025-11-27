@@ -6,7 +6,7 @@ from pathlib import Path
 from ftplib import FTP
 
 from PIL import Image, ImageFilter
-
+#Hier ein kommentar!
 import config
 
 
